@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://vita-list.github.io/sitemap.xml
